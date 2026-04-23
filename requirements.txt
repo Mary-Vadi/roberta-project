@@ -1,0 +1,15 @@
+torch
+transformers
+datasets
+scikit-learn
+pandas
+numpy
+jupyter
+ipykernel
+matplotlib
+seaborn
+tqdm
+accelerate
+evaluate
+notebook
+jupyterlab
