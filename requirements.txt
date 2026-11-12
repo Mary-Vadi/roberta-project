@@ -9,7 +9,7 @@ ipykernel
 matplotlib
 seaborn
 tqdm
-accelerate
+accelerate 
 evaluate
 notebook
 jupyterlab
